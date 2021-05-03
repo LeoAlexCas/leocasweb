@@ -1,9 +1,13 @@
 import React from 'react';
+import Logo from '../components/logo';
+
 
 class Home extends React.Component {
     render() {
         return(
-            <p>Este es el home</p>
+            <div className="homeContainer">
+                <Logo></Logo>
+            </div>
         );
     }
 }
