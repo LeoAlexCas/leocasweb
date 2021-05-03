@@ -1,6 +1,6 @@
 import React from 'react';
 import './styles/Footer.css';
-import { Icon, InlineIcon } from '@iconify/react';
+import { Icon } from '@iconify/react';
 import youtubeFilled from '@iconify-icons/ant-design/youtube-filled';
 import facebookFilled from '@iconify-icons/ant-design/facebook-filled';
 import githubFilled from '@iconify-icons/ant-design/github-filled';
